@@ -22,7 +22,7 @@
 - Adapts examples and API documents
 - Add C++ libraries and examples on github
 
-3.0.0
+3.0.1
 - End of support for 32bit
 - Use of c++17 compiler
 - Add version function

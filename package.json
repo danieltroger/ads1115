@@ -2,7 +2,7 @@
   "name": "@iiot2k/ads1115",
   "bugs": "https://github.com/iiot2k/ads1115/issues",
   "description": "ads1115 analog to digital converter library",
-  "version": "3.0.0",
+  "version": "3.0.1",
   "license": "Apache-2.0",
   "private": false,
   "author": {
