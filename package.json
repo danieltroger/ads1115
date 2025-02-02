@@ -16,7 +16,7 @@
   },
 
   "main": "ads1115.js",
-
+  "types": "ads1115.d.ts",
   "keywords": ["iot", "iiot2k", "raspberry pi", "rpi", 
     "ads1115", "adc", "analog to digital converter"
   ],
